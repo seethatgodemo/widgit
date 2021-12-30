@@ -1,1 +1,2 @@
 adding utility config
+adding values based on the review comments
