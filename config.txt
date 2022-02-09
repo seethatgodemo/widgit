@@ -1,0 +1,6 @@
+This file has lots of config settings
+
+config printer
+config switches
+
+config lighting
