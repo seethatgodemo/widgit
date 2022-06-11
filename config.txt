@@ -1,4 +1,6 @@
 ceva configurari ce vor fi verificate in urmatorul init
 acest fisier trebuie pull spre local
 2. o noua linie scrisa local (dupa pull)
+3. am creat pe github folder si file feature3 si acum aduc o noua linie aici
+
 
