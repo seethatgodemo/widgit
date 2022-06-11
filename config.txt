@@ -1,0 +1,2 @@
+ceva configurari ce vor fi verificate in urmatorul init
+acest fisier trebuie pull spre local
