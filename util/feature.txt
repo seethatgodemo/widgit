@@ -1,0 +1,1 @@
+1. am creat fisierul config.txt in branchul utility si directorul util si apoi am creat acest fisier
