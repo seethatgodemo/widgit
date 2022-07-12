@@ -1,2 +1,3 @@
 some configs that were checked in after init
 need to pull this file down to local repo
+add additional configuration
