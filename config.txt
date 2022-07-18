@@ -1,2 +1,4 @@
 some configuration were checked after init
 need to pull this file down
+
+**Added some additional information 
