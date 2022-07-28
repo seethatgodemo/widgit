@@ -1,0 +1,3 @@
+some text
+added some configuration
+found couple of bugs
