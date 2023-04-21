@@ -1,0 +1,2 @@
+This is the new configuration file
+since the old one had issues
