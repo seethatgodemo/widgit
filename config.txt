@@ -1,0 +1,2 @@
+some config after init
+need to pull down
