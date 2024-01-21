@@ -1,6 +1,6 @@
 feature 1 implementation
 
-feature 2 implementation
+feature 2 implementation  with new feateures widget
 
 feture 3 implementation
 
