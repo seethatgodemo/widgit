@@ -1,0 +1,3 @@
+config setting 1
+config setting 2
+config setting 3
