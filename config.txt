@@ -1,8 +1,5 @@
 some configurations that were checked in after init
 need to pull this file down
 add additional configurations
-<<<<<<< HEAD
 create another conflict line
-=======
 create conflict
->>>>>>> 5e34945813224a12167178b6c12db55b9f5e07fd
