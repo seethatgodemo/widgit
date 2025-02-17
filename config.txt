@@ -1,0 +1,4 @@
+Some configuration that were checked in after init
+need to pull this file down
+add additional configuration
+found a couple of more config values that are needed
